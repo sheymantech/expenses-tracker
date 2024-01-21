@@ -13,7 +13,7 @@ import Header from "./components/header.vue";
 import balance from "./components/balance.vue";
 import incomeExpenses from "./components/income-expenses.vue";
 import transactionList from "./components/transaction-list.vue";
-import addTransaction from "./add-transaction.vue";
+import addTransaction from "./components/add-transaction.vue";
 export default {
   components: {
     Header,
