@@ -45,6 +45,6 @@ const onSubmit = function () {
   // console.log(text.value, amount.value);
   text.value = "";
   amount.value = "";
-  // console.log(emit);
+  console.log(emit);
 };
 </script>

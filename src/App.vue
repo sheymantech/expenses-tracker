@@ -60,8 +60,8 @@ const handleTransactionSubmited = (transactionData) => {
   toast.success("transaction added successfully ");
 };
 
-// console.log(transactions);
-// console.log(generateUniqueId());
+console.log(transactions);
+console.log(generateUniqueId());
 const generateUniqueId = () => {
   return Math.floor(Math.random() * 1000000);
 };
